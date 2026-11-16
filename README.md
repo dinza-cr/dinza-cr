@@ -16,9 +16,9 @@
 - 🌿 Interested in low-level programming and understanding how things work under the hood
 - 🔍 Currently working on **reverse engineering**
 
-<div align="center">
-  <img src="./assets/03_signature_sauge.png" alt="Dave-Olivier INZA-CRUZ botanical signature" width="100%" />
-</div>
+<a href="daveolivier.com">
+  <img src="03_signature_sauge.png" alt="Portfolio" width="100%">
+</a>
 
 ## 🛠️ My toolbox
 
@@ -35,11 +35,14 @@ Have a project in mind, an idea to share, or just want to say hi?
 
 Feel free to reach out!
 
-<p align="center">
-  <a href="https://daveolivier.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/dave-olivier-inza-cruz">LinkedIn</a> ·
-  <a href="mailto:dave@inzacruz.com">Email</a>
-</p>
+
+<a href="https://www.linkedin.com/in/dave-olivier-inza-cruz">
+  <img src="assets/linkedin.png" alt="LinkedIn" width="45">
+</a>
+<a href="mailto:tonadresse@email.com">
+  <img src="assets/email.png" alt="Email" width="45">
+</a>
+
 
 <div align="center">
   <img src="./assets/02_plantes_sauge.png" alt="Tropical plants in sage green" width="100%" />
