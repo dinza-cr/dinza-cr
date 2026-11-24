@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/01_guirlande_sauge.png" alt="Botanical garland in sage green" width="100%" />
+  <img src="./assets/01-banniere-haut.svg" alt="Botanical garland in sage green" width="100%" />
 </div>
 
 <h1 align="center">Dave-Olivier INZA-CRUZ</h1>
@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://daveolivier.com" target="_blank">
     <img
-      src="./assets/03_signature_sauge.png"
+      src="./assets/banniere-portfolio.svg"
       alt="Tropical plants in sage green"
       width="100%"
     />
@@ -43,11 +43,11 @@
 <p>Feel free to reach out!</p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dave-olivier-inza-cruz"><img src="./assets/linkedin.png" alt="LinkedIn" width="80"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dave@inzacruz.com"><img src="./assets/email.png" alt="Email" width="80"></a>
+  <a href="https://www.linkedin.com/in/dave-olivier-inza-cruz"><img src="./assets/linkedin-sanzo-wada.png" alt="LinkedIn" width="80"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dave@inzacruz.com"><img src="./assets/email-sanzo-wada.png" alt="Email" width="80"></a>
 </div>
 
 
 
 <div align="center">
-  <img src="./assets/02_plantes_sauge.png" alt="Tropical plants in sage green" width="100%" />
+  <img src="./assets/03-banniere-bas.svg" alt="Tropical plants in sage green" width="100%" />
 </div>
