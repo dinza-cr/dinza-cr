@@ -14,7 +14,7 @@
 - 📍 Based in **Paris, France**
 - 💻 Building things with **C and C++**
 - 🌿 Interested in low-level programming and understanding how things work under the hood
-- 🔍 Currently working on **reverse engineering**
+- 🔍 Currently working on an **advanced C++ library (libftpp)**
 
 
 
