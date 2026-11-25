@@ -39,10 +39,9 @@
 
 <h2>📬 Reach me</h2>
 
-<p>Have a project in mind, an idea to share, or just want to say hi?</p>
-<p>Feel free to reach out!</p>
+<p>Have a project in mind, an idea to share, or just want to say hi? Feel free to reach out!</p>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dave-olivier-inza-cruz"><img src="./assets/linkedin-sanzo-wada.png" alt="LinkedIn" width="80"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dave@inzacruz.com"><img src="./assets/email-sanzo-wada.png" alt="Email" width="80"></a>
 </div>
 
