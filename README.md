@@ -32,9 +32,9 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | C · C++ |
-| **Development** | Git · VS Code |
-| **Creative** | Blender · Photoshop |
+| **Languages** | C · C++ · CMake |
+| **Development** | Linux · Git · VS Code |
+| **Creative** | SolidWorks · Blender · Photoshop |
 
 
 <h2>📬 Reach me</h2>
