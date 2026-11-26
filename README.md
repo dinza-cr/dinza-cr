@@ -33,7 +33,9 @@
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | C · C++ |
-| **Development** | Make · Linux · Git · VS Code |
+| **Development** | GNU Make · Git · Bash · VS Code |
+| **Operating Systems** | Linux · Windows · macOS |
+| **DevOps / Containers** | Docker |
 | **Creative** | SolidWorks · Blender · Photoshop |
 
 
