@@ -32,8 +32,8 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | C · C++ · CMake |
-| **Development** | Linux · Git · VS Code |
+| **Languages** | C · C++ |
+| **Development** | Make · Linux · Git · VS Code |
 | **Creative** | SolidWorks · Blender · Photoshop |
 
 
